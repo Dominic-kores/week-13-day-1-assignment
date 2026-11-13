@@ -1,0 +1,29 @@
+
+{
+  "name": "kenya-ai-lab",
+  "version": "1.0.0",
+  "description": "Week 13 Day 1 - Anthropic and OpenAI API Exploration",
+  "main": "chatbot.js",
+  "type": "commonjs",
+  "scripts": {
+    "anthropic": "node explore-anthropic.js",
+    "openai": "node explore-openai.js",
+    "chat": "node chatbot.js",
+    "start": "node chatbot.js"
+  },
+  "keywords": [
+    "llm",
+    "anthropic",
+    "openai",
+    "claude",
+    "chatbot",
+    "kenya"
+  ],
+  "author": "Dominic Kores",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "*",
+    "dotenv": "*",
+    "openai": "*"
+  }
+}
