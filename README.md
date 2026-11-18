@@ -15,7 +15,7 @@ and tracks API token consumption.
 - Understand LLM API integration.
 - Send requests using the Anthropic SDK.
 - Send requests using the OpenAI SDK.
-<!-- - Explore system prompts and temperature settings. //Claude Haiku 5.5 does not support temparature parameter -->
+- Explore system prompts and temperature settings. //Claude Haiku 5.5 does not support temparature parameters
 - Compare AI models using response time and tokens.
 - Build a CLI chatbot using Node.js readline.
 - Maintain multi-turn conversation history.
